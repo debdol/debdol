@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debdol Sarkar</h1>
-<h3 align="center">A passionate mobile developer from India, building prjects using React-Native</h3>
+<h3 align="center">A passionate mobile developer from India, building projects using React-Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debdol&label=Profile%20views&color=0e75b6&style=flat" alt="debdol" /> </p>
 
